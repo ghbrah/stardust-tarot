@@ -251,6 +251,9 @@ export default function Home() {
                   <Sparkles className="mr-2 h-5 w-5" />
                   Shuffle the Deck
                 </Button>
+                <p className="text-xs text-center text-muted-foreground/60 italic font-serif">
+                  Press "Shuffle" first, then you will be guided to draw 3 cards.
+                </p>
               </form>
             </Form>
           </motion.div>
@@ -341,7 +344,8 @@ export default function Home() {
                 className={cn(
                   "transition-all duration-500",
                   index === revealedCount ? "scale-105 z-10" : "scale-100 z-0",
-                  index > revealedCount ? "blur-sm grayscale opacity-70" : ""
+                  index > revealedCount ? "blur-sm grayscale opacity-70" : "",
+                  readingState === "complete" ? "blur-0 grayscale-0 opacity-100" : ""
                 )}
               >
                 <TarotCard 
@@ -416,6 +420,13 @@ export default function Home() {
           </AnimatePresence>
         </div>
       )}
+
+      {/* Footer */}
+      <footer className="w-full py-6 mt-auto text-center">
+        <p className="font-serif text-sm text-muted-foreground/60">
+          Made with love and wisdom by Terence
+        </p>
+      </footer>
     </div>
   );
 }

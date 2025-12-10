@@ -1,0 +1,2050 @@
+[
+  {
+    "serial_number": 1,
+    "name": "King of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands14_lxxmcq.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "natural-born leader",
+      "vision",
+      "entrepreneur",
+      "honour",
+      "boldness",
+      "charisma"
+    ]
+  },
+  {
+    "serial_number": 2,
+    "name": "Queen of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands13_odv9dn.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "courage",
+      "confidence",
+      "independence",
+      "social butterfly",
+      "determination",
+      "charisma"
+    ]
+  },
+  {
+    "serial_number": 3,
+    "name": "Knight of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands12_z2u0ak.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "energy",
+      "passion",
+      "inspired action",
+      "adventure",
+      "impulsiveness",
+      "confidence"
+    ]
+  },
+  {
+    "serial_number": 4,
+    "name": "Page of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands11_uigssf.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "inspiration",
+      "ideas",
+      "discovery",
+      "limitless potential",
+      "free spirit",
+      "enthusiasm"
+    ]
+  },
+  {
+    "serial_number": 5,
+    "name": "Nine of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands09_mr9frt.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "resilience",
+      "courage",
+      "persistence",
+      "test of faith",
+      "boundaries",
+      "last stand"
+    ]
+  },
+  {
+    "serial_number": 6,
+    "name": "Ten of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands10_skrny9.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "burden",
+      "extra responsibility",
+      "hard work",
+      "completion",
+      "stress",
+      "overwhelm"
+    ]
+  },
+  {
+    "serial_number": 7,
+    "name": "Eight of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands08_x9j22q.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "movement",
+      "fast paced change",
+      "action",
+      "alignment",
+      "air travel",
+      "swift communication"
+    ]
+  },
+  {
+    "serial_number": 8,
+    "name": "Six of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands06_c42vke.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "success",
+      "public recognition",
+      "progress",
+      "self-confidence",
+      "victory"
+    ]
+  },
+  {
+    "serial_number": 9,
+    "name": "Seven of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands07_xarqjw.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "challenge",
+      "competition",
+      "protection",
+      "perseverance",
+      "defending position"
+    ]
+  },
+  {
+    "serial_number": 10,
+    "name": "Five of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands05_wobazl.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "conflict",
+      "disagreements",
+      "competition",
+      "tension",
+      "diversity",
+      "struggle"
+    ]
+  },
+  {
+    "serial_number": 11,
+    "name": "Four of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands04_tw8i5b.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "celebration",
+      "joy",
+      "harmony",
+      "relaxation",
+      "homecoming",
+      "stability"
+    ]
+  },
+  {
+    "serial_number": 12,
+    "name": "Three of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands03_xvz2ld.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "progress",
+      "expansion",
+      "foresight",
+      "overseas opportunities",
+      "leadership"
+    ]
+  },
+  {
+    "serial_number": 13,
+    "name": "Ace of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands01_ftv2fa.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "inspiration",
+      "new opportunities",
+      "growth",
+      "potential",
+      "creative spark"
+    ]
+  },
+  {
+    "serial_number": 14,
+    "name": "Two of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Wands02_vepjix.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "future planning",
+      "progress",
+      "decisions",
+      "discovery",
+      "personal power"
+    ]
+  },
+  {
+    "serial_number": 15,
+    "name": "Queen of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords13_hkm1jt.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "independent",
+      "unbiased judgement",
+      "clear boundaries",
+      "direct communication",
+      "intellectual"
+    ]
+  },
+  {
+    "serial_number": 16,
+    "name": "King of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords14_hys4gf.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "mental clarity",
+      "intellectual power",
+      "authority",
+      "truth",
+      "rational",
+      "disciplined"
+    ]
+  },
+  {
+    "serial_number": 17,
+    "name": "Knight of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords12_ejfauu.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "ambitious",
+      "action-oriented",
+      "driven to succeed",
+      "fast-thinking",
+      "assertive"
+    ]
+  },
+  {
+    "serial_number": 18,
+    "name": "Page of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords11_fjtroe.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "new ideas",
+      "curiosity",
+      "thirst for knowledge",
+      "new ways of communicating",
+      "vigilance"
+    ]
+  },
+  {
+    "serial_number": 19,
+    "name": "Seven of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords07_un1zqa.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "betrayal",
+      "deception",
+      "getting away with something",
+      "acting strategically",
+      "sneaky"
+    ]
+  },
+  {
+    "serial_number": 20,
+    "name": "Five of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords05_zlqh0b.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "conflict",
+      "disagreements",
+      "competition",
+      "defeat",
+      "winning at all costs",
+      "tension"
+    ]
+  },
+  {
+    "serial_number": 21,
+    "name": "Ten of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords10_y64vqr.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "painful endings",
+      "deep wounds",
+      "betrayal",
+      "loss",
+      "crisis",
+      "rock bottom"
+    ]
+  },
+  {
+    "serial_number": 22,
+    "name": "Eight of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords08_abhrnf.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "negative thoughts",
+      "self-imposed restriction",
+      "imprisonment",
+      "victim mentality"
+    ]
+  },
+  {
+    "serial_number": 23,
+    "name": "Nine of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords09_jukddx.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "anxiety",
+      "worry",
+      "fear",
+      "depression",
+      "nightmares",
+      "mental anguish"
+    ]
+  },
+  {
+    "serial_number": 24,
+    "name": "Six of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords06_qxqxzn.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "transition",
+      "change",
+      "rite of passage",
+      "releasing baggage",
+      "moving forward"
+    ]
+  },
+  {
+    "serial_number": 25,
+    "name": "Four of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords04_bht6l3.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "rest",
+      "relaxation",
+      "meditation",
+      "contemplation",
+      "recuperation",
+      "passive"
+    ]
+  },
+  {
+    "serial_number": 26,
+    "name": "Three of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords03_dswx0w.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "heartbreak",
+      "emotional pain",
+      "sorrow",
+      "grief",
+      "hurt",
+      "betrayal"
+    ]
+  },
+  {
+    "serial_number": 27,
+    "name": "Two of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords02_utt1m1.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "difficult decisions",
+      "weighing up options",
+      "an impasse",
+      "avoidance",
+      "stalemate"
+    ]
+  },
+  {
+    "serial_number": 28,
+    "name": "Ace of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Swords01_defvzf.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "breakthroughs",
+      "new ideas",
+      "mental clarity",
+      "success",
+      "truth",
+      "justice"
+    ]
+  },
+  {
+    "serial_number": 29,
+    "name": "King of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles14_kga5dm.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "wealth",
+      "business",
+      "leadership",
+      "security",
+      "discipline",
+      "abundance",
+      "success"
+    ]
+  },
+  {
+    "serial_number": 30,
+    "name": "Queen of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles13_wwxj55.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "nurturing",
+      "practical",
+      "providing financially",
+      "down-to-earth",
+      "comfort",
+      "abundance"
+    ]
+  },
+  {
+    "serial_number": 31,
+    "name": "Knight of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles12_fgvj9u.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "hard work",
+      "productivity",
+      "routine",
+      "conservatism",
+      "methodical",
+      "dedication"
+    ]
+  },
+  {
+    "serial_number": 32,
+    "name": "Page of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles11_g59qij.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "manifestation",
+      "financial opportunity",
+      "skill development",
+      "new job",
+      "ambition"
+    ]
+  },
+  {
+    "serial_number": 33,
+    "name": "Ten of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles10_d6luem.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "wealth",
+      "financial security",
+      "family",
+      "long-term success",
+      "contribution",
+      "legacy"
+    ]
+  },
+  {
+    "serial_number": 34,
+    "name": "Nine of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles09_miqtjc.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "abundance",
+      "luxury",
+      "self-sufficiency",
+      "financial independence",
+      "success"
+    ]
+  },
+  {
+    "serial_number": 35,
+    "name": "Eight of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles08_uu1fr2.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "apprenticeship",
+      "repetitive tasks",
+      "mastery",
+      "skill development",
+      "dedication"
+    ]
+  },
+  {
+    "serial_number": 36,
+    "name": "Seven of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles07_uwwhmb.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "long-term view",
+      "sustainable results",
+      "perseverance",
+      "investment",
+      "patience"
+    ]
+  },
+  {
+    "serial_number": 37,
+    "name": "Five of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles05_ihcpzj.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "financial loss",
+      "poverty",
+      "lack mindset",
+      "isolation",
+      "worry",
+      "hardship"
+    ]
+  },
+  {
+    "serial_number": 38,
+    "name": "Six of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles06_vszi8t.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "giving",
+      "receiving",
+      "sharing wealth",
+      "generosity",
+      "charity",
+      "fairness"
+    ]
+  },
+  {
+    "serial_number": 39,
+    "name": "Four of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles04_tdqzge.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "saving money",
+      "security",
+      "conservatism",
+      "scarcity",
+      "control",
+      "possessiveness"
+    ]
+  },
+  {
+    "serial_number": 40,
+    "name": "Three of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles03_qytroc.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "teamwork",
+      "collaboration",
+      "learning",
+      "implementation",
+      "skill development"
+    ]
+  },
+  {
+    "serial_number": 41,
+    "name": "Two of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles02_wf9tqs.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "multiple priorities",
+      "time management",
+      "prioritisation",
+      "adaptability",
+      "balance"
+    ]
+  },
+  {
+    "serial_number": 42,
+    "name": "Ace of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Pentacles01_y3of7n.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "new financial opportunity",
+      "prosperity",
+      "abundance",
+      "manifestation",
+      "security"
+    ]
+  },
+  {
+    "serial_number": 43,
+    "name": "Queen of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups13_fsrytw.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "compassionate",
+      "caring",
+      "emotionally stable",
+      "intuitive",
+      "in flow",
+      "nurturing"
+    ]
+  },
+  {
+    "serial_number": 44,
+    "name": "Knight of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups12_hhx8gx.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "creativity",
+      "romance",
+      "charm",
+      "imagination",
+      "beauty",
+      "following the heart"
+    ]
+  },
+  {
+    "serial_number": 45,
+    "name": "King of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups14_rtll33.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "emotionally balanced",
+      "compassionate",
+      "diplomatic",
+      "calm",
+      "wisdom",
+      "tolerance"
+    ]
+  },
+  {
+    "serial_number": 46,
+    "name": "Page of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups11_p2x3lk.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "creative opportunities",
+      "curiosity",
+      "possibility",
+      "intuitive messages",
+      "inner child"
+    ]
+  },
+  {
+    "serial_number": 47,
+    "name": "Ten of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups10_aga6nh.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "divine love",
+      "blissful relationships",
+      "harmony",
+      "alignment",
+      "happy family"
+    ]
+  },
+  {
+    "serial_number": 48,
+    "name": "Nine of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups09_otfu5i.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "contentment",
+      "satisfaction",
+      "gratitude",
+      "wish come true",
+      "luxury",
+      "pleasure"
+    ]
+  },
+  {
+    "serial_number": 49,
+    "name": "Eight of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups08_vlccxd.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "disappointment",
+      "abandonment",
+      "withdrawal",
+      "escapism",
+      "seeking truth"
+    ]
+  },
+  {
+    "serial_number": 50,
+    "name": "Six of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups06_myit9b.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "revisiting the past",
+      "childhood memories",
+      "innocence",
+      "joy",
+      "nostalgia"
+    ]
+  },
+  {
+    "serial_number": 51,
+    "name": "Seven of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups07_dsx87y.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "opportunities",
+      "choices",
+      "wishful thinking",
+      "illusion",
+      "fantasy",
+      "daydreaming"
+    ]
+  },
+  {
+    "serial_number": 52,
+    "name": "Two of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups02_kzm3bv.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "unified love",
+      "partnership",
+      "mutual attraction",
+      "connection",
+      "harmony"
+    ]
+  },
+  {
+    "serial_number": 53,
+    "name": "Four of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups04_edhtga.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "meditation",
+      "contemplation",
+      "apathy",
+      "reevaluation",
+      "boredom",
+      "discontent"
+    ]
+  },
+  {
+    "serial_number": 54,
+    "name": "Three of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups03_rqd6ot.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "celebration",
+      "friendship",
+      "creativity",
+      "collaborations",
+      "community",
+      "joy"
+    ]
+  },
+  {
+    "serial_number": 55,
+    "name": "Five of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups05_kpkeee.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "regret",
+      "failure",
+      "disappointment",
+      "pessimism",
+      "loss",
+      "grief"
+    ]
+  },
+  {
+    "serial_number": 56,
+    "name": "Ace of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/Cups01_dhmwix.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "love",
+      "new relationships",
+      "compassion",
+      "creativity",
+      "emotional awakening"
+    ]
+  },
+  {
+    "serial_number": 57,
+    "name": "Judgement",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/20-Judgement_rf1zb5.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "judgement",
+      "rebirth",
+      "inner calling",
+      "absolution",
+      "reflection",
+      "awakening"
+    ]
+  },
+  {
+    "serial_number": 58,
+    "name": "The Devil",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/15-TheDevil_yfvbpe.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "shadow self",
+      "attachment",
+      "addiction",
+      "restriction",
+      "sexuality",
+      "materialism"
+    ]
+  },
+  {
+    "serial_number": 59,
+    "name": "The World",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/21-TheWorld_fcitdx.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "completion",
+      "integration",
+      "accomplishment",
+      "travel",
+      "fulfillment",
+      "success"
+    ]
+  },
+  {
+    "serial_number": 60,
+    "name": "The Sun",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/19-TheSun_mkespb.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "positivity",
+      "fun",
+      "warmth",
+      "success",
+      "vitality",
+      "joy",
+      "confidence"
+    ]
+  },
+  {
+    "serial_number": 61,
+    "name": "The Moon",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/18-TheMoon_ywaypp.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "illusion",
+      "fear",
+      "anxiety",
+      "subconscious",
+      "intuition",
+      "confusion"
+    ]
+  },
+  {
+    "serial_number": 62,
+    "name": "The Star",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/17-TheStar_fjdatf.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "hope",
+      "faith",
+      "purpose",
+      "renewal",
+      "spirituality",
+      "inspiration",
+      "serenity"
+    ]
+  },
+  {
+    "serial_number": 63,
+    "name": "The Tower",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/16-TheTower_kpub10.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "sudden change",
+      "upheaval",
+      "chaos",
+      "revelation",
+      "awakening",
+      "destruction"
+    ]
+  },
+  {
+    "serial_number": 64,
+    "name": "Temperance",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/14-Temperance_b6qzdl.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "balance",
+      "moderation",
+      "patience",
+      "purpose",
+      "harmony",
+      "tranquility"
+    ]
+  },
+  {
+    "serial_number": 65,
+    "name": "The Hanged Man",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/12-TheHangedMan_ubahi2.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "pause",
+      "surrender",
+      "letting go",
+      "new perspectives",
+      "sacrifice",
+      "waiting"
+    ]
+  },
+  {
+    "serial_number": 66,
+    "name": "Death",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/13-Death_rgoxr9.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "endings",
+      "change",
+      "transformation",
+      "transition",
+      "letting go",
+      "rebirth"
+    ]
+  },
+  {
+    "serial_number": 67,
+    "name": "Justice",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/11-Justice_leazws.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "justice",
+      "fairness",
+      "truth",
+      "cause and effect",
+      "law",
+      "accountability"
+    ]
+  },
+  {
+    "serial_number": 68,
+    "name": "The Lovers",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/06-TheLovers_pnr0ly.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "love",
+      "harmony",
+      "relationships",
+      "values alignment",
+      "choices",
+      "union"
+    ]
+  },
+  {
+    "serial_number": 69,
+    "name": "Wheel of Fortune",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/10-WheelOfFortune_wynwyk.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "good luck",
+      "karma",
+      "life cycles",
+      "destiny",
+      "turning point",
+      "change"
+    ]
+  },
+  {
+    "serial_number": 70,
+    "name": "The Hierophant",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/05-TheHierophant_quvxvh.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "spiritual wisdom",
+      "religious beliefs",
+      "conformity",
+      "tradition",
+      "institutions"
+    ]
+  },
+  {
+    "serial_number": 71,
+    "name": "The Chariot",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/07-TheChariot_jl4xfy.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "control",
+      "willpower",
+      "success",
+      "action",
+      "determination",
+      "victory"
+    ]
+  },
+  {
+    "serial_number": 72,
+    "name": "The Emperor",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/04-TheEmperor_i0xk5d.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "authority",
+      "establishment",
+      "structure",
+      "father figure",
+      "control",
+      "leadership"
+    ]
+  },
+  {
+    "serial_number": 73,
+    "name": "The Empress",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/03-TheEmpress_g2uiwn.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "femininity",
+      "beauty",
+      "nature",
+      "nurturing",
+      "abundance",
+      "creativity"
+    ]
+  },
+  {
+    "serial_number": 74,
+    "name": "The High Priestess",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/02-TheHighPriestess_v5x91p.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "intuition",
+      "sacred knowledge",
+      "divine feminine",
+      "subconscious mind",
+      "mystery"
+    ]
+  },
+  {
+    "serial_number": 75,
+    "name": "The Fool",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/00-TheFool_ajdyny.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "new beginnings",
+      "innocence",
+      "spontaneity",
+      "free spirit",
+      "adventure"
+    ]
+  },
+  {
+    "serial_number": 76,
+    "name": "The Hermit",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/09-TheHermit_cxaiou.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "soul-searching",
+      "introspection",
+      "being alone",
+      "inner guidance",
+      "wisdom"
+    ]
+  },
+  {
+    "serial_number": 77,
+    "name": "The Magician",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/01-TheMagician_coezor.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "manifestation",
+      "resourcefulness",
+      "power",
+      "inspired action",
+      "skill"
+    ]
+  },
+  {
+    "serial_number": 78,
+    "name": "Strength",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/08-Strength_svudez.jpg",
+    "orientation": "upright",
+    "keywords": [
+      "strength",
+      "courage",
+      "persuasion",
+      "influence",
+      "compassion",
+      "inner power"
+    ]
+  },
+  {
+    "serial_number": 79,
+    "name": "King of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands14_lxxmcq.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "impulsiveness",
+      "haste",
+      "ruthless",
+      "high expectations",
+      "domineering"
+    ]
+  },
+  {
+    "serial_number": 80,
+    "name": "Queen of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands13_odv9dn.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-respect",
+      "self-confidence",
+      "introverted",
+      "re-establish sense of self"
+    ]
+  },
+  {
+    "serial_number": 81,
+    "name": "Knight of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands12_z2u0ak.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "passion project",
+      "haste",
+      "scattered energy",
+      "delays",
+      "frustration",
+      "recklessness"
+    ]
+  },
+  {
+    "serial_number": 82,
+    "name": "Page of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands11_uigssf.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "newly-formed ideas",
+      "redirecting energy",
+      "self-limiting beliefs",
+      "lack of direction"
+    ]
+  },
+  {
+    "serial_number": 83,
+    "name": "Nine of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands09_mr9frt.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "inner resources",
+      "struggle",
+      "overwhelm",
+      "defensive",
+      "paranoia",
+      "giving up"
+    ]
+  },
+  {
+    "serial_number": 84,
+    "name": "Ten of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands10_skrny9.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "doing it all",
+      "carrying the burden",
+      "delegation",
+      "release",
+      "letting go"
+    ]
+  },
+  {
+    "serial_number": 85,
+    "name": "Eight of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands08_x9j22q.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "delays",
+      "frustration",
+      "resisting change",
+      "internal alignment",
+      "slowing down"
+    ]
+  },
+  {
+    "serial_number": 86,
+    "name": "Six of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands06_c42vke.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "private achievement",
+      "self-doubt",
+      "lack of recognition",
+      "punishment",
+      "fall from grace"
+    ]
+  },
+  {
+    "serial_number": 87,
+    "name": "Seven of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands07_xarqjw.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "exhaustion",
+      "giving up",
+      "overwhelmed",
+      "defensiveness",
+      "paranoia"
+    ]
+  },
+  {
+    "serial_number": 88,
+    "name": "Five of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands05_wobazl.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "inner conflict",
+      "conflict avoidance",
+      "releasing tension",
+      "cooperation"
+    ]
+  },
+  {
+    "serial_number": 89,
+    "name": "Four of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands04_tw8i5b.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "personal celebration",
+      "inner harmony",
+      "conflict with others",
+      "transition"
+    ]
+  },
+  {
+    "serial_number": 90,
+    "name": "Three of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands03_xvz2ld.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "obstacles",
+      "delays",
+      "frustration",
+      "lack of foresight",
+      "playing small"
+    ]
+  },
+  {
+    "serial_number": 91,
+    "name": "Ace of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands01_ftv2fa.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "emerging idea",
+      "lack of direction",
+      "distractions",
+      "delays",
+      "setbacks"
+    ]
+  },
+  {
+    "serial_number": 92,
+    "name": "Two of Wands",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Wands02_vepjix.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "personal goals",
+      "inner alignment",
+      "fear of unknown",
+      "lack of planning"
+    ]
+  },
+  {
+    "serial_number": 93,
+    "name": "Queen of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords13_hkm1jt.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "overly-emotional",
+      "easily influenced",
+      "bitchy",
+      "cold-hearted",
+      "cruel"
+    ]
+  },
+  {
+    "serial_number": 94,
+    "name": "King of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords14_hys4gf.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "quiet power",
+      "inner truth",
+      "misuse of power",
+      "manipulation",
+      "tyrannical"
+    ]
+  },
+  {
+    "serial_number": 95,
+    "name": "Knight of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords12_ejfauu.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "restless",
+      "unfocused",
+      "impulsive",
+      "burn-out",
+      "reckless",
+      "aggressive"
+    ]
+  },
+  {
+    "serial_number": 96,
+    "name": "Page of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords11_fjtroe.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-expression",
+      "all talk and no action",
+      "haphazard action",
+      "gossip"
+    ]
+  },
+  {
+    "serial_number": 97,
+    "name": "Seven of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords07_un1zqa.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "imposter syndrome",
+      "self-deceit",
+      "keeping secrets",
+      "coming clean"
+    ]
+  },
+  {
+    "serial_number": 98,
+    "name": "Five of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords05_zlqh0b.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "reconciliation",
+      "making amends",
+      "past resentment",
+      "open communication"
+    ]
+  },
+  {
+    "serial_number": 99,
+    "name": "Ten of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords10_y64vqr.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "recovery",
+      "regeneration",
+      "resisting an inevitable end",
+      "fear of ruin"
+    ]
+  },
+  {
+    "serial_number": 100,
+    "name": "Eight of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords08_abhrnf.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-limiting beliefs",
+      "inner critic",
+      "releasing negative thoughts",
+      "freedom"
+    ]
+  },
+  {
+    "serial_number": 101,
+    "name": "Nine of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords09_jukddx.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "inner turmoil",
+      "deep-seated fears",
+      "secrets",
+      "releasing worry",
+      "hope"
+    ]
+  },
+  {
+    "serial_number": 102,
+    "name": "Six of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords06_qxqxzn.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "personal transition",
+      "resistance to change",
+      "unfinished business",
+      "stuck"
+    ]
+  },
+  {
+    "serial_number": 103,
+    "name": "Four of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords04_bht6l3.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "exhaustion",
+      "burn-out",
+      "deep contemplation",
+      "stagnation",
+      "restlessness"
+    ]
+  },
+  {
+    "serial_number": 104,
+    "name": "Three of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords03_dswx0w.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "negative self-talk",
+      "releasing pain",
+      "optimism",
+      "forgiveness",
+      "recovery"
+    ]
+  },
+  {
+    "serial_number": 105,
+    "name": "Two of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords02_utt1m1.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "indecision",
+      "confusion",
+      "information overload",
+      "stalling",
+      "truth revealed"
+    ]
+  },
+  {
+    "serial_number": 106,
+    "name": "Ace of Swords",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Swords01_defvzf.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "inner clarity",
+      "re-thinking an idea",
+      "clouded judgement",
+      "confusion"
+    ]
+  },
+  {
+    "serial_number": 107,
+    "name": "King of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles14_kga5dm.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "financially inept",
+      "obsessed with wealth",
+      "greed",
+      "materialistic",
+      "stubborn"
+    ]
+  },
+  {
+    "serial_number": 108,
+    "name": "Queen of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles13_wwxj55.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "financial independence",
+      "self-care",
+      "work-home conflict",
+      "smothering"
+    ]
+  },
+  {
+    "serial_number": 109,
+    "name": "Knight of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles12_fgvj9u.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-discipline",
+      "boredom",
+      "feeling stuck",
+      "perfectionism",
+      "laziness"
+    ]
+  },
+  {
+    "serial_number": 110,
+    "name": "Page of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles11_g59qij.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "lack of progress",
+      "procrastination",
+      "learn from failure",
+      "lack of commitment"
+    ]
+  },
+  {
+    "serial_number": 111,
+    "name": "Ten of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles10_d6luem.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "the dark side of wealth",
+      "financial failure",
+      "loneliness",
+      "family conflict"
+    ]
+  },
+  {
+    "serial_number": 112,
+    "name": "Nine of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles09_miqtjc.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-worth",
+      "over-investment in work",
+      "hustling",
+      "financial setbacks"
+    ]
+  },
+  {
+    "serial_number": 113,
+    "name": "Eight of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles08_uu1fr2.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-development",
+      "perfectionism",
+      "misdirected activity",
+      "lack of quality"
+    ]
+  },
+  {
+    "serial_number": 114,
+    "name": "Seven of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles07_uwwhmb.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "lack of long-term vision",
+      "limited success",
+      "impatience",
+      "frustration"
+    ]
+  },
+  {
+    "serial_number": 115,
+    "name": "Five of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles05_ihcpzj.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "recovery from financial loss",
+      "spiritual poverty",
+      "positive changes",
+      "improvement"
+    ]
+  },
+  {
+    "serial_number": 116,
+    "name": "Six of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles06_vszi8t.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-care",
+      "unpaid debts",
+      "one-sided charity",
+      "strings attached",
+      "power dynamics"
+    ]
+  },
+  {
+    "serial_number": 117,
+    "name": "Four of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles04_tdqzge.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "over-spending",
+      "greed",
+      "self-protection",
+      "financial insecurity",
+      "letting go"
+    ]
+  },
+  {
+    "serial_number": 118,
+    "name": "Three of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles03_qytroc.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "disharmony",
+      "misalignment",
+      "working alone",
+      "lack of teamwork",
+      "poor quality"
+    ]
+  },
+  {
+    "serial_number": 119,
+    "name": "Two of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles02_wf9tqs.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "over-committed",
+      "disorganisation",
+      "reprioritisation",
+      "overwhelm"
+    ]
+  },
+  {
+    "serial_number": 120,
+    "name": "Ace of Pentacles",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Pentacles01_y3of7n.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "lost opportunity",
+      "missed chance",
+      "lack of planning",
+      "scarcity mindset"
+    ]
+  },
+  {
+    "serial_number": 121,
+    "name": "Queen of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups13_fsrytw.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "inner feelings",
+      "self-care",
+      "self-love",
+      "co-dependency",
+      "emotional instability"
+    ]
+  },
+  {
+    "serial_number": 122,
+    "name": "Knight of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups12_hhx8gx.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "overactive imagination",
+      "unrealistic",
+      "jealous",
+      "moody",
+      "disappointment"
+    ]
+  },
+  {
+    "serial_number": 123,
+    "name": "King of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups14_rtll33.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-compassion",
+      "inner feelings",
+      "moodiness",
+      "emotional manipulation",
+      "volatility"
+    ]
+  },
+  {
+    "serial_number": 124,
+    "name": "Page of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups11_p2x3lk.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "new ideas",
+      "doubting intuition",
+      "creative blocks",
+      "emotional immaturity"
+    ]
+  },
+  {
+    "serial_number": 125,
+    "name": "Ten of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups10_aga6nh.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "disconnection",
+      "misaligned values",
+      "struggling relationships",
+      "disharmony"
+    ]
+  },
+  {
+    "serial_number": 126,
+    "name": "Nine of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups09_otfu5i.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "inner happiness",
+      "materialism",
+      "dissatisfaction",
+      "indulgence",
+      "greed"
+    ]
+  },
+  {
+    "serial_number": 127,
+    "name": "Eight of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups08_vlccxd.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "trying one more time",
+      "indecision",
+      "aimless drifting",
+      "walking away"
+    ]
+  },
+  {
+    "serial_number": 128,
+    "name": "Six of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups06_myit9b.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "living in the past",
+      "forgiveness",
+      "lacking playfulness",
+      "moving forward"
+    ]
+  },
+  {
+    "serial_number": 129,
+    "name": "Seven of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups07_dsx87y.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "alignment",
+      "personal values",
+      "overwhelmed by choices",
+      "clarity",
+      "focus"
+    ]
+  },
+  {
+    "serial_number": 130,
+    "name": "Two of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups02_kzm3bv.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-love",
+      "break-ups",
+      "disharmony",
+      "distrust",
+      "imbalance"
+    ]
+  },
+  {
+    "serial_number": 131,
+    "name": "Four of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups04_edhtga.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "retreat",
+      "withdrawal",
+      "checking in for alignment",
+      "new perspectives"
+    ]
+  },
+  {
+    "serial_number": 132,
+    "name": "Three of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups03_rqd6ot.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "independence",
+      "alone time",
+      "hardcore partying",
+      "overindulgence",
+      "gossip"
+    ]
+  },
+  {
+    "serial_number": 133,
+    "name": "Five of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups05_kpkeee.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "personal setbacks",
+      "self-forgiveness",
+      "moving on",
+      "acceptance",
+      "recovery"
+    ]
+  },
+  {
+    "serial_number": 134,
+    "name": "Ace of Cups",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/Cups01_dhmwix.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-love",
+      "intuition",
+      "repressed emotions",
+      "blocked creativity",
+      "emptiness"
+    ]
+  },
+  {
+    "serial_number": 135,
+    "name": "Judgement",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/20-Judgement_rf1zb5.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-doubt",
+      "inner critic",
+      "ignoring the call",
+      "lack of self-awareness"
+    ]
+  },
+  {
+    "serial_number": 136,
+    "name": "The Devil",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/15-TheDevil_yfvbpe.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "releasing limiting beliefs",
+      "exploring dark thoughts",
+      "detachment",
+      "freedom"
+    ]
+  },
+  {
+    "serial_number": 137,
+    "name": "The World",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/21-TheWorld_fcitdx.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "seeking personal closure",
+      "short-cuts",
+      "delays",
+      "incompletion"
+    ]
+  },
+  {
+    "serial_number": 138,
+    "name": "The Sun",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/19-TheSun_mkespb.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "inner child",
+      "feeling down",
+      "overly optimistic",
+      "temporary depression"
+    ]
+  },
+  {
+    "serial_number": 139,
+    "name": "The Moon",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/18-TheMoon_ywaypp.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "release of fear",
+      "repressed emotion",
+      "inner confusion",
+      "clarity"
+    ]
+  },
+  {
+    "serial_number": 140,
+    "name": "The Star",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/17-TheStar_fjdatf.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "lack of faith",
+      "despair",
+      "self-trust",
+      "disconnection",
+      "hopelessness"
+    ]
+  },
+  {
+    "serial_number": 141,
+    "name": "The Tower",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/16-TheTower_kpub10.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "personal transformation",
+      "fear of change",
+      "averting disaster",
+      "delayed disaster"
+    ]
+  },
+  {
+    "serial_number": 142,
+    "name": "Temperance",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/14-Temperance_b6qzdl.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "imbalance",
+      "excess",
+      "self-healing",
+      "re-alignment",
+      "lack of harmony"
+    ]
+  },
+  {
+    "serial_number": 143,
+    "name": "The Hanged Man",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/12-TheHangedMan_ubahi2.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "delays",
+      "resistance",
+      "stalling",
+      "indecision",
+      "martyrdom"
+    ]
+  },
+  {
+    "serial_number": 144,
+    "name": "Death",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/13-Death_rgoxr9.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "resistance to change",
+      "personal transformation",
+      "inner purging",
+      "fear of change"
+    ]
+  },
+  {
+    "serial_number": 145,
+    "name": "Justice",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/11-Justice_leazws.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "unfairness",
+      "lack of accountability",
+      "dishonesty",
+      "bias",
+      "legal issues"
+    ]
+  },
+  {
+    "serial_number": 146,
+    "name": "The Lovers",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/06-TheLovers_pnr0ly.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-love",
+      "disharmony",
+      "imbalance",
+      "misalignment of values",
+      "conflict"
+    ]
+  },
+  {
+    "serial_number": 147,
+    "name": "Wheel of Fortune",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/10-WheelOfFortune_wynwyk.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "bad luck",
+      "resistance to change",
+      "breaking cycles",
+      "setbacks",
+      "upheaval"
+    ]
+  },
+  {
+    "serial_number": 148,
+    "name": "The Hierophant",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/05-TheHierophant_quvxvh.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "personal beliefs",
+      "freedom",
+      "challenging the status quo",
+      "rebellion",
+      "unconventional"
+    ]
+  },
+  {
+    "serial_number": 149,
+    "name": "The Chariot",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/07-TheChariot_jl4xfy.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "self-discipline",
+      "opposition",
+      "lack of direction",
+      "aggression",
+      "defeat"
+    ]
+  },
+  {
+    "serial_number": 150,
+    "name": "The Emperor",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/04-TheEmperor_i0xk5d.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "domination",
+      "excessive control",
+      "lack of discipline",
+      "inflexibility",
+      "tyranny"
+    ]
+  },
+  {
+    "serial_number": 151,
+    "name": "The Empress",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/03-TheEmpress_g2uiwn.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "creative block",
+      "dependence on others",
+      "smothering",
+      "lack of growth",
+      "neglect"
+    ]
+  },
+  {
+    "serial_number": 152,
+    "name": "The High Priestess",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/02-TheHighPriestess_v5x91p.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "secrets",
+      "disconnected from intuition",
+      "withdrawal",
+      "silence",
+      "repressed feelings"
+    ]
+  },
+  {
+    "serial_number": 153,
+    "name": "The Fool",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/00-TheFool_ajdyny.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "recklessness",
+      "risk-taking",
+      "naivety",
+      "foolishness",
+      "chaos"
+    ]
+  },
+  {
+    "serial_number": 154,
+    "name": "The Hermit",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/09-TheHermit_cxaiou.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "isolation",
+      "loneliness",
+      "withdrawal",
+      "paranoia",
+      "exile"
+    ]
+  },
+  {
+    "serial_number": 155,
+    "name": "The Magician",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/01-TheMagician_coezor.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "manipulation",
+      "poor planning",
+      "untapped talents",
+      "illusion",
+      "deception"
+    ]
+  },
+  {
+    "serial_number": 156,
+    "name": "Strength",
+    "url": "https://res.cloudinary.com/djzolgnng/image/upload/a_180/08-Strength_svudez.jpg",
+    "orientation": "reversed",
+    "keywords": [
+      "inner strength",
+      "self-doubt",
+      "low energy",
+      "raw emotion",
+      "weakness"
+    ]
+  }
+]

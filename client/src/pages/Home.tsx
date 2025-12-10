@@ -6,9 +6,10 @@ import { motion, AnimatePresence } from "framer-motion";
 import { TarotCard, type TarotCardData } from "@/components/TarotCard";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { InputOTP, InputOTPGroup, InputOTPSlot } from "@/components/ui/input-otp";
 import { Form, FormControl, FormField, FormItem, FormMessage } from "@/components/ui/form";
 import { useToast } from "@/hooks/use-toast";
-import { Loader2, Sparkles, Shuffle, RotateCcw } from "lucide-react";
+import { Loader2, Sparkles, Shuffle, RotateCcw, Lock } from "lucide-react";
 import { cn } from "@/lib/utils";
 import tarotDeck from "@assets/tarot_cards_complete_(1)_1765374570042.json";
 
@@ -17,10 +18,12 @@ const formSchema = z.object({
   question: z.string().min(3, "Please ask a question to the cards.").max(100, "Your question is too long."),
 });
 
-type ReadingState = "idle" | "shuffling" | "drawing" | "revealing" | "interpreting" | "complete";
+type ReadingState = "locked" | "idle" | "shuffling" | "drawing" | "revealing" | "interpreting" | "complete";
 
 export default function Home() {
-  const [readingState, setReadingState] = useState<ReadingState>("idle");
+  const [readingState, setReadingState] = useState<ReadingState>("locked");
+  const [password, setPassword] = useState("");
+  const [shake, setShake] = useState(false);
   const [drawnCards, setDrawnCards] = useState<TarotCardData[]>([]);
   const [revealedCount, setRevealedCount] = useState(0);
   const [interpretation, setInterpretation] = useState<string>("");
@@ -32,6 +35,24 @@ export default function Home() {
       question: "",
     },
   });
+
+  const handlePasswordChange = (value: string) => {
+    setPassword(value);
+    if (value.length === 6) {
+      const sum = value.split("").reduce((acc, curr) => acc + parseInt(curr), 0);
+      if (sum === 18) {
+        // Success
+        setTimeout(() => setReadingState("idle"), 300);
+      } else {
+        // Failure
+        setShake(true);
+        setTimeout(() => {
+          setShake(false);
+          setPassword("");
+        }, 500);
+      }
+    }
+  };
 
   const shuffleDeck = () => {
     setReadingState("shuffling");
@@ -146,6 +167,53 @@ export default function Home() {
           </p>
         </motion.div>
       </header>
+
+      {/* Locked State */}
+      <AnimatePresence mode="wait">
+        {readingState === "locked" && (
+          <motion.div
+            initial={{ opacity: 0, scale: 0.95 }}
+            animate={{ 
+              opacity: 1, 
+              scale: 1,
+              x: shake ? [0, -10, 10, -10, 10, 0] : 0
+            }}
+            exit={{ opacity: 0, y: -20, scale: 0.95 }}
+            transition={{ duration: 0.3 }}
+            className="w-full max-w-md bg-white/50 backdrop-blur-md p-10 rounded-2xl border border-white/50 shadow-xl flex flex-col items-center space-y-8"
+          >
+            <div className="p-4 bg-primary/10 rounded-full">
+              <Lock className="w-8 h-8 text-primary" />
+            </div>
+            
+            <div className="text-center space-y-2">
+              <h2 className="font-serif text-2xl text-primary font-bold tracking-wide">Sanctum Access</h2>
+              <p className="text-sm text-muted-foreground font-sans">Enter the 6-digit seal code to enter.</p>
+            </div>
+
+            <div className="flex justify-center w-full">
+              <InputOTP
+                maxLength={6}
+                value={password}
+                onChange={handlePasswordChange}
+              >
+                <InputOTPGroup>
+                  <InputOTPSlot index={0} className="bg-white/60 border-primary/20" />
+                  <InputOTPSlot index={1} className="bg-white/60 border-primary/20" />
+                  <InputOTPSlot index={2} className="bg-white/60 border-primary/20" />
+                  <InputOTPSlot index={3} className="bg-white/60 border-primary/20" />
+                  <InputOTPSlot index={4} className="bg-white/60 border-primary/20" />
+                  <InputOTPSlot index={5} className="bg-white/60 border-primary/20" />
+                </InputOTPGroup>
+              </InputOTP>
+            </div>
+            
+            <p className="text-xs text-center text-muted-foreground/50 italic">
+              "The sum of the parts reveals the path."
+            </p>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {/* Input Section */}
       <AnimatePresence mode="wait">

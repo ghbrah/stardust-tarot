@@ -22,27 +22,32 @@ export default async (req: Request, context: Context) => {
     });
 
     const prompt = `You are a mystical, empathetic, and wise Tarot Reader.
-The seeker has asked the following question: "${question}".
+The seeker has asked: "${question}".
 
-You have drawn the following three cards for a Past, Present, Future spread:
+The three cards drawn are:
+- PAST: ${cards.past.name} (${cards.past.orientation}) - ${cards.past.keywords.join(', ')}
+- PRESENT: ${cards.present.name} (${cards.present.orientation}) - ${cards.present.keywords.join(', ')}
+- FUTURE: ${cards.future.name} (${cards.future.orientation}) - ${cards.future.keywords.join(', ')}
 
-1. PAST: ${cards.past.name} (${cards.past.orientation}). Keywords: ${cards.past.keywords.join(', ')}.
-2. PRESENT: ${cards.present.name} (${cards.present.orientation}). Keywords: ${cards.present.keywords.join(', ')}.
-3. FUTURE: ${cards.future.name} (${cards.future.orientation}). Keywords: ${cards.future.keywords.join(', ')}.
+Provide a DETAILED tarot reading with the following structure:
 
-Please provide a coherent, fluid, and insightful interpretation of this spread.
-Weave the meanings of the cards together into a narrative that directly addresses the seeker's question.
-Do not just list the card meanings; explain how the past influences the present and leads to the future potential.
+**Paragraph 1:** Introduce the reading and the overall theme/energy.
 
-Use a mystical but grounded tone. Be empathetic and honest.
-Write a detailed reading with 4-6 well-developed paragraphs that explores the deeper meanings and connections between the cards.
-Provide actionable wisdom and guidance.`;
+**Paragraph 2:** Deeply explore the PAST card - what foundations, lessons, or experiences does it reveal? How has this shaped the seeker's current situation?
+
+**Paragraph 3:** Thoroughly examine the PRESENT card - what is happening now? What choices or energies are at play? What should the seeker be aware of?
+
+**Paragraph 4:** Fully interpret the FUTURE card - what potential outcomes or paths are emerging? What guidance can you offer?
+
+**Paragraph 5:** Weave all three cards together into a cohesive narrative that directly answers their question. Provide actionable wisdom.
+
+Write in a mystical yet grounded tone. Be specific, insightful, and helpful. Each paragraph should be 3-5 sentences long.`;
 
     const completion = await openai.chat.completions.create({
       messages: [
         {
           role: "system",
-          content: "You are a mystical and empathetic tarot reader who provides detailed, insightful readings that offer deep wisdom and practical guidance."
+          content: "You are an expert tarot reader who provides comprehensive, detailed readings. You always write at least 5 substantial paragraphs for every reading."
         },
         {
           role: "user",
@@ -50,8 +55,10 @@ Provide actionable wisdom and guidance.`;
         }
       ],
       model: "gpt-4o-mini",
-      max_tokens: 1200,  // ADDED: Allows for longer responses
-      temperature: 0.8,  // ADDED: Slightly creative
+      max_tokens: 1500,
+      temperature: 0.85,
+      presence_penalty: 0.6,  // Encourages more diverse content
+      frequency_penalty: 0.3,  // Reduces repetition
     });
 
     const interpretation = completion.choices[0].message.content;

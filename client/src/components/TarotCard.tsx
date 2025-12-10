@@ -54,7 +54,8 @@ export function TarotCard({ card, isRevealed, index, label }: TarotCardProps) {
 
   return (
     <div className="flex flex-col items-center gap-4 group perspective-1000">
-      <div className="text-xl font-serif font-semibold text-primary/80 uppercase tracking-widest transition-colors group-hover:text-primary">
+      {/* FIXED: Better contrast for label */}
+      <div className="text-xl font-serif font-semibold text-mystic-800 uppercase tracking-widest transition-colors group-hover:text-mystic-900 drop-shadow-sm">
         {label}
       </div>
       
@@ -106,17 +107,19 @@ export function TarotCard({ card, isRevealed, index, label }: TarotCardProps) {
                   {/* Sheen Effect */}
                   <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-white/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none"></div>
                   
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-80"></div>
+                  {/* FIXED: Stronger gradient for better text contrast */}
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent"></div>
                   
                   <div className="absolute bottom-0 left-0 w-full p-4 text-white text-center z-10">
-                    <h3 className="font-serif text-2xl font-bold tracking-wide drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)] text-primary-foreground/90">{card.name}</h3>
-                    <p className="text-xs uppercase tracking-[0.2em] text-primary/80 mt-1 font-semibold">{card.orientation}</p>
+                    {/* FIXED: Better text shadows and colors */}
+                    <h3 className="font-serif text-2xl font-bold tracking-wide drop-shadow-[0_2px_4px_rgba(0,0,0,0.9)] text-white">{card.name}</h3>
+                    <p className="text-sm uppercase tracking-[0.2em] text-gold-400 mt-1 font-semibold drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)]">{card.orientation}</p>
                   </div>
                 </div>
                 <div className="p-4 bg-white/95 backdrop-blur-md border-t border-primary/10 min-h-[80px] flex flex-col justify-center">
                   <div className="flex flex-wrap gap-1.5 justify-center">
                     {card.keywords.slice(0, 3).map((keyword, i) => (
-                      <span key={i} className="text-[9px] uppercase tracking-wider px-2 py-1 bg-primary/10 border border-primary/10 rounded-full text-primary-foreground/80 font-bold">
+                      <span key={i} className="text-[9px] uppercase tracking-wider px-2 py-1 bg-mystic-100 border border-mystic-300 rounded-full text-mystic-800 font-bold">
                         {keyword}
                       </span>
                     ))}

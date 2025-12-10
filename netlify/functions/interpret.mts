@@ -55,7 +55,7 @@ Write in a mystical yet grounded tone. Be specific, insightful, and helpful. Eac
         }
       ],
       model: "gpt-4o-mini",
-      max_tokens: 1500,
+      max_tokens: 3000,
       temperature: 0.85,
       presence_penalty: 0.6,  // Encourages more diverse content
       frequency_penalty: 0.3,  // Reduces repetition

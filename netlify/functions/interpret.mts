@@ -32,7 +32,7 @@ export default async (req: Request, context: Context) => {
       
       Weave a cohesive, mystical, and insightful story connecting these three cards to answer the user's question. 
       Be empathetic but honest. Use a slightly poetic and elevated tone. 
-      Keep the response under 150 words. Focus on the narrative arc from past to future.
+      Keep the response under 350 words. Focus on the narrative arc from past to future.
     `;
 
     const completion = await openai.chat.completions.create({

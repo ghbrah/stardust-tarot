@@ -4,12 +4,13 @@ import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { motion, AnimatePresence } from "framer-motion";
 import { TarotCard, type TarotCardData } from "@/components/TarotCard";
+import { StardustCursor } from "@/components/StardustCursor";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { InputOTP, InputOTPGroup, InputOTPSlot } from "@/components/ui/input-otp";
 import { Form, FormControl, FormField, FormItem, FormMessage } from "@/components/ui/form";
 import { useToast } from "@/hooks/use-toast";
-import { Loader2, Sparkles, Shuffle, RotateCcw, Lock } from "lucide-react";
+import { Loader2, Sparkles, Shuffle, RotateCcw, Lock, Share2, Copy } from "lucide-react";
 import { cn } from "@/lib/utils";
 import tarotDeck from "@assets/tarot_cards_complete_(1)_1765374570042.json";
 
@@ -52,6 +53,16 @@ export default function Home() {
         }, 500);
       }
     }
+  };
+
+  const shareReading = () => {
+    const text = `Lumina Tarot Reading\n\nQuestion: ${form.getValues().question}\n\nPast: ${drawnCards[0].name}\nPresent: ${drawnCards[1].name}\nFuture: ${drawnCards[2].name}\n\nInterpretation:\n${interpretation}\n\nDiscover your fate at Lumina Tarot.`;
+    navigator.clipboard.writeText(text);
+    toast({
+      title: "Copied to clipboard",
+      description: "Your reading is ready to share.",
+      duration: 3000,
+    });
   };
 
   const shuffleDeck = () => {
@@ -152,7 +163,8 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen w-full flex flex-col items-center py-12 px-4 md:px-8">
+    <div className="min-h-screen w-full flex flex-col items-center py-12 px-4 md:px-8 cursor-none">
+      <StardustCursor />
       
       {/* Header */}
       <header className="mb-12 text-center space-y-4">
@@ -405,7 +417,15 @@ export default function Home() {
                   <p>{interpretation.slice(1)}</p>
                 </div>
 
-                <div className="flex justify-center mt-12">
+                <div className="flex justify-center mt-12 gap-4">
+                  <Button 
+                    onClick={shareReading} 
+                    variant="outline" 
+                    className="text-primary hover:text-primary-foreground hover:bg-primary gap-2 font-serif text-lg border-primary/20 transition-all duration-300"
+                  >
+                    <Share2 className="w-4 h-4" />
+                    Share Reading
+                  </Button>
                   <Button 
                     onClick={resetReading} 
                     variant="ghost" 
